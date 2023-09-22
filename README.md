@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 i'm a Professional Web Developer</h1>
+<h1 align="center">hey there 👋 i'm Md. Tusar Imran</h1>
 
 ###
 
